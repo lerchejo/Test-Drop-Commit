@@ -1,0 +1,40 @@
+
+li {
+    color: white;
+}
+
+ol {
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+body {
+    background: white url("images/background.png") no-repeat;
+}
+
+h1 {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+
+a:hover {
+    color:red;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+.results {
+    color: rgb(108, 169, 223);
+
+}
